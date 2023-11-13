@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is <b>Mary</b> 🍒 and I'm a decentralization enthusiast</p>
+<p align="left">My name is <b>Mary</b> and I'm a decentralization enthusiast</p>
 
 ###
 
