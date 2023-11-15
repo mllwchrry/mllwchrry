@@ -1,4 +1,4 @@
-<h1 align="left">'Hello 👋'.digest("sha-3-256");</h1>
+<h1 align="left">sha3_256('Hello 👋');</h1>
 
 ###
 
