@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Final year bachelor's CS student (Intelligent systems)<br>📚 I'm currently developing my diploma thesis "Decentralized voting system (adapted to the uni environment)"<br>🔐 Breaking into Web3: actively studying Solidity & Cryptography<br>🌐 Excited about integrating blockchain into everyday life and government processes<br>🔧 Working as a Solidity developer<br>🚀 I have a freelance experience as a Full-Stack developer</p>
+<p align="left">✨ Bachelor of CS (Intelligent systems)<br>🌐 Excited about integrating blockchain into everyday life and government processes<br>🔧 Working as a Solidity developer<br>🚀 I have a freelance experience as a Full-Stack developer</p>
 
 ###
 
